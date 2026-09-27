@@ -1,0 +1,32 @@
+## Critical
+- [ ] Bootloader
+  - [ ] Boot sector
+  - [ ] Disk R/W
+  - [ ] Stage 2 loader
+  - [ ] Memory map detection
+  - [ ] GDP
+  - [ ] Mode Switching(?)
+  - [ ] File System Driver (EXT4)
+  - [ ] Kernel Loader
+  - [ ] Handoff
+  - [ ] Kernel entry jump
+- [ ] Kernel
+  - [ ] Kernel Entry
+  - [ ] VGA Text Mode
+  - [ ] Kernel entry
+  - [ ]  Screen output
+  - [ ]  GDT
+  - [ ]  IDT
+  - [ ]  Exception handlers
+  - [ ]  PIC remapping
+  - [ ]  Timer (PIT)
+  - [ ]  Keyboard driver
+  - [ ]  IRQ handlers
+  - [ ]  Physical memory manager
+  - [ ] Kernel heap
+  - [ ] Shell
+
+## Backlog
+- [ ] SSH Server/Client
+- [ ] BASIC interpreter
+- [ ] A20 Enabling (bootloader)
